@@ -3,6 +3,7 @@ h1 {
 	font-family: sans-serif;
 	margin-bottom: 30px;
 	color: lightgoldenrodyellow;
+	text-shadow: 10px 10px 1px black;
 }
 
 .center {
